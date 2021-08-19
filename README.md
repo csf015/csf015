@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @csf015
+- 👋 Hi, I’m Sandra @csf015
 - 👀 I’m interested in updating my networking knowledge.
 - 🌱 I’m currently learning networking fundamentals.
 - 💞️ I’m looking to collaborate on network security eventually.
